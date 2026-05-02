@@ -80,7 +80,7 @@
 I used Screen Flows, Record-Triggered Flows, and Apex to automate business logic and ensure smooth data handling. The system was designed to manage the complete lifecycle of travel and expense tracking, from request creation to reimbursement. This project helped me understand real-world requirements, build structured solutions, and apply Salesforce development and administrative concepts effectively.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/PANKAJ-NEBBULAL-YADAV-g1-salesforce/blob/59cf82daab107617b4017674e281f74355bd6f28/Course%20report/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Pankaj2k01/Travelling-and-Expenses-Management-System/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
@@ -143,9 +143,9 @@ During my internship period, I actively participated in community service activi
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/4bb7cee7-fb70-438b-af32-f9c6e3928c39" alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/user-attachments/assets/a5e14adf-010f-4c6a-adf3-12a2a64bdcd2" alt="Community Service Photo 2" width="30%">
-<img src="https://github.com/user-attachments/assets/e6f61433-4814-4a5e-9ea4-296646fbf271"  alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/user-attachments/assets/9c9de181-5943-472d-89ce-efac20fbb216" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/user-attachments/assets/4871be70-4bed-4b3d-b784-fa1e9b3cb81a" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/user-attachments/assets/5a12fb02-3c1e-471c-8c8f-57f2a389424a" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
